@@ -27,11 +27,4 @@
    
 <br/>
 
-[twitter]: https://twitter.com/tkssignature
-[instagram]: https://instagram.com/that_tech_chic
-[linkedin]: https://linkedin.com/in/opeyemi-olatunji
-
-   
-<br/>
-
 ![Olatunjiopeyemi Visitors](https://komarev.com/ghpvc/?username=Olatunjiopeyemi&color=blue)
