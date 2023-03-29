@@ -1,6 +1,4 @@
-## Hello <width="100px">
-
-<img src="https://media.giphy.com/media/gJiHEKslqhGDjCKj7R/giphy.gif" width="100px"></a> I'm Olatunji Opeyemi - That_Tech_Chic
+## Hiiiiiii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></a> I'm Olatunji Opeyemi - That_Tech_Chic
 
 <br/>
 <p align="center">
