@@ -19,9 +19,9 @@
 
 [![website](./img/twitter-light.svg)](https://twitter.com/tkssignature)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/opeyemi-olatunji-26b372259/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/opeyemi-olatunji)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/that_tech_chic/?next=%2F)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/that_tech_chic)
 &nbsp;&nbsp;
 
    
