@@ -1,4 +1,3 @@
-# That_Tech_chic
 ## Hello <img src=""https://media.giphy.com/media/gJiHEKslqhGDjCKj7R/giphy.gif width="25px"></a> I'm Olatunji Opeyemi - That_Tech_Chic
 
 <br/>
@@ -24,7 +23,6 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/that_tech_chic/?next=%2F)
 &nbsp;&nbsp;
-<a h
 
    
 <br/>
