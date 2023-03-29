@@ -9,7 +9,7 @@
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm currently studying at ALX SE Africa (https://www.alxafrica.com/software-engineering/) Class of 2023.
-- 🌱 I’m currently learning C-Programming and Shell Scripting
+- 🌱 I’m currently learning C-Programming, Shell Scripting and Phython.
 - 😊 I’m open to open source projects, hackathons and internships.
 - 💼 Job interests: Full-stack Software Engineer.
 - 📫 You can contact me by mail @ roseolatunji93@gmail.com.
@@ -27,4 +27,4 @@
    
 <br/>
 
-![Olatunjiopeyemi Visitors](https://komarev.com/ghpvc/?username=Olatunjiopeyemi&color=blue)
+![Olatunjiopeyemi Visitors](https://komarev.com/ghpvc/?username=Olatunjiopeyemi&color=black)
