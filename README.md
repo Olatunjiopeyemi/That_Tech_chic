@@ -27,4 +27,4 @@
    
 <br/>
 
-![Olatunjiopeyemi Visitors](https://komarev.com/ghpvc/?username=Olatunjiopeyemi&color=black)
+![Olatunjiopeyemi Visitors](https://komarev.com/ghpvc/?username=Olatunjiopeyemi&color=red)
